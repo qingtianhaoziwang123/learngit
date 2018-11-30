@@ -1,0 +1,8 @@
+家琪，大南。
+何玲师姐，高师兄。
+另外还有我的同学们。
+VAE学习：https://blog.csdn.net/u011534057/article/details/55045470
+               https://github.com/keras-team/keras/blob/master/examples/variational_autoencoder.py
+
+基金项目：国家自然科学基金 (基金编号61304114) 
+Project Supported by National Natural Science Foundation of China (61304114) 
